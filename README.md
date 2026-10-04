@@ -1,12 +1,12 @@
+---
 # Superstore Executive Retail Analytics Dashboard 📊
-
-**Program:** EncoderX Remote Internship (Batch 02) | **Track:** Data Science | **Task:** 04
+---
 
 ## 📌 Project Overview
 This project features a comprehensive, interactive Business Intelligence (BI) dashboard built with **Streamlit, Pandas, and Plotly**. The dashboard analyzes the **"Sample - Superstore"** dataset to monitor sales momentum, profitability, and operational efficiency across multiple regions and product categories.
 
 ## 🚀 Live Dashboard
-* **Link:** [Insert your deployed Streamlit Cloud link here]
+* **Link:** https://superstore-executive-dashboard.streamlit.app/
 
 ## 🛠️ Tech Stack & Tools
 * **Framework:** Streamlit
